@@ -1,5 +1,9 @@
-Hi, I'm Brady DeBoer
+## Hi, I'm Brady DeBoer 👋
 
-- I've primarily worked with TypeScript and React/Next.js
-- I'm currently learning Go
-- I'm taking backend development courses on [Boot.dev](https://www.boot.dev)
+Full Stack developer based in Brantford, Ontario with a focus on Go and TypeScript (with React/Next.js).
+<br>
+I enjoy working across the whole stack and recently completed the backend curriculum on [Boot.dev](https://www.boot.dev).
+
+**Currently working with:** Go · TypeScript · React · TailwindCSS · PostgreSQL
+<br>
+**Also familiar with:** Python · C · C#
